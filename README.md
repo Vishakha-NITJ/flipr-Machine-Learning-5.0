@@ -1,6 +1,8 @@
 # flipr-Machine-Learning-5.0
 [Flipr Machine Learning Hackathon 5.0](https://flipr.ai/hackathon/)
 
+## scored Overall Accuracy A+ with Remarks Optimum accuracy
+
 
 ### Problems:
 1. The objective of the first part of the problem statement is to predict the Stock Price of a
