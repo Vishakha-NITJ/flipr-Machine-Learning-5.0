@@ -1,7 +1,7 @@
 # flipr-Machine-Learning-5.0
 [Flipr Machine Learning Hackathon 5.0](https://flipr.ai/hackathon/)
 
-## . scored Overall Accuracy A+ with Remarks Optimum accuracy
+## - scored Overall Accuracy A+ with Remarks Optimum accuracy
 
 
 ### Problems:
